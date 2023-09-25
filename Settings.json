@@ -1,0 +1,68 @@
+{
+   "AutoCount": {
+      "AutoSend_1": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "5",
+         "Starting_Int": "0",
+         "Interval": "1"
+      },
+      "AutoSend_2": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "5",
+         "Starting_Int": "5",
+         "Interval": "-2"
+      }
+   },
+   "AutoRoutine_1": {
+      "AutoSend_1": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": {
+            "Send_1": "hello",
+            "Send_2": "how r you doing",
+            "Send_3": "dayum chat is dead"
+         }
+      },
+      "AutoSend_2": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": "seccond"
+      },
+      "AutoSend_3": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": "third"
+      }
+   },
+   "AutoRoutine_2": {
+      "AutoSend_1": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": "first2"
+      },
+      "AutoSend_2": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": "seccond2"
+      },
+      "AutoSend_3": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": "third2"
+      },
+      "AutoSend_4": {
+         "ChannelID": "908973055605366784",
+         "Sleep": "5",
+         "RandomOffset": "0",
+         "Send": "four2"
+      }
+   }
+}
